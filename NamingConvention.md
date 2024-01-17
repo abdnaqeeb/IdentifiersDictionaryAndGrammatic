@@ -25,7 +25,7 @@
 4. Community Best Practices
 5. Personal preferences
 
-## Existing Industry Guidelines And Standards
+## Sample of Existing Industry Guidelines and Standards
 
 - Automotive and embedded industry [MISRA C/C++](https://misra.org.uk/)   
 - Aerospace industry standard [DO-178C](https://www.do178.org/)   
@@ -33,7 +33,7 @@
 - Telecommunications standard [3GPP TS 32.105](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=1842)  
 - Government and defense [Common Weakness Enumeration (CWE)](https://cwe.mitre.org/), [Defense Information Systems Agency (DISA),](https://www.disa.mil/) and [Security Technical Implementation Guides (STIGs)](https://public.cyber.mil/stigs/) standards
 
-## Existing Language Guidelines And Standards
+## Sample of Existing Language Guidelines and Standards
 
 - Python: [PEP8 (Python Enhancement Proposal) Style Guide for Python Code](https://peps.python.org/pep-0008/)  
 - Java: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)  
