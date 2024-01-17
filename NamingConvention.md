@@ -19,6 +19,7 @@
 
 ## Standards and guidelines priority list
 
+The first has the highest priority to comply with.
 1. Client
 2. Industry
 3. Language
