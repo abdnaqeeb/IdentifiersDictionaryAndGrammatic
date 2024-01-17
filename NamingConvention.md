@@ -15,7 +15,7 @@
 
 - Letters case
 - Prefixes and suffixes
-- Singularity and plurality
+- Singular and plural
 
 ## Standards and guidelines priority list
 
