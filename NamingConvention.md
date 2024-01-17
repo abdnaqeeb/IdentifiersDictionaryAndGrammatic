@@ -62,12 +62,12 @@
 
 ### Four areas to focus on
 
-- Avoid abbreviations
-	- Establish a controlled list of acceptable abbreviations
-- Use single word for each single meaning.
-	- Establish terminological meanings for synonymous words (**Dictionary**)
-- Use enough words to express the complete meaning
-	- Establish rules to get same results of naming (**Grammatic**)
+- Control abbreviations.
+	- Establish a controlled list of acceptable abbreviations.
+- **Dictionary**: Use single word for each single meaning.
+	- Establish terminological meanings for synonymous words.
+- **Grammatic**: Use enough words to express the complete meaning.
+	- Establish rules to get same results of naming.
 - Avoid the very generalized words like Helper, Manager and Utils
 
 ### Abbreviations Sample
@@ -88,7 +88,7 @@
 | VM | Virtual Machine |
 https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
 
-### Enough words (Grammatic)
+### Grammatic
 
 Here some examples how to use rules to build identifier name:
 #### Boolean Variables
