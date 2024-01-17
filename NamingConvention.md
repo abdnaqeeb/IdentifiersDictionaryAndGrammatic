@@ -9,7 +9,7 @@
 - Letters case
 - Prefixes and suffixes
 - Singular and plural
-- **Words selection (vocabulary)**
+- **Words selection and structure (vocabulary & grammatic)**
 
 ## What is covered by existing standards
 
@@ -48,7 +48,7 @@
 - HTML/CSS: [W3School HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
 
 
-## Vocabulary
+## Vocabulary & Grammatic
 
 ### Challenge
 
