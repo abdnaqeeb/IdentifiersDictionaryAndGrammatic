@@ -63,8 +63,8 @@ The first has the highest priority to comply with.
 
 ### Four areas to focus on
 
-- Control abbreviations.
-	- Establish a controlled list of acceptable abbreviations.
+- **Abbreviations Control**.
+	- Establish a controlled list of acceptable abbreviations, this list has the accepted abbreviations to be used in the code.
 - **Dictionary**: Use single word for each single meaning.
 	- Establish terminological meanings for synonymous words.
 - **Grammatic**: Use enough words to express the complete meaning.
