@@ -70,7 +70,7 @@
 	- Establish rules to get same results of naming.
 - Avoid the very generalized words like Helper, Manager and Utils
 
-### Abbreviations Sample
+### Abbreviations Control Table Sample
 
 | Abbreviation | Description |
 | ---- | ---- |
@@ -91,6 +91,7 @@ https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
 ### Grammatic
 
 Here some examples how to use rules to build identifier name:
+
 #### Boolean Variables
 
 1. Ask yes or no question
