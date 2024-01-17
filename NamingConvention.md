@@ -14,7 +14,7 @@
 ## What is covered by existing standards
 
 - Letters case
-- Prefixes and suffixes
+- Prefix and suffix
 - Singular and plural
 
 ## Standards and guidelines priority list
