@@ -87,7 +87,8 @@ The first has the highest priority to comply with.
 | UX | User Experience |
 | UML | Unified Modeling Language |
 | VM | Virtual Machine |
-https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
+
+Ref: https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
 
 ### Grammatic
 
