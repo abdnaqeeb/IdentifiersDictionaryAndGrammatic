@@ -74,7 +74,7 @@ The first has the highest priority to comply with.
 ### Abbreviations Control Table Sample
 
 | Abbreviation | Description |
-| ---- | ---- |
+| :---- | :---- |
 | HTTP | Hypertext Transfer Protocol |
 | FTP | File Transfer Protocol |
 | GUID | Globally Unique IDentifier |
