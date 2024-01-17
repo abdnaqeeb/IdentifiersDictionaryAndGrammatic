@@ -88,7 +88,7 @@ The first has the highest priority to comply with.
 | UML | Unified Modeling Language |
 | VM | Virtual Machine |
 
-Ref: https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
+Source: https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
 
 ### Grammatic
 
