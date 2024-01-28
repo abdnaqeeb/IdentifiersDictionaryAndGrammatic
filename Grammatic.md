@@ -22,9 +22,10 @@ A number variable can present:
 - Measurement
 
 Many developers use the word "number" as part of the variable name to hold the count of something. For example a variable hold the count of students may have a name like `studentsNumber` or `numberOfStudents`. 
-Actually we recommend to avoid using the `number` word in such way, because it misleads in some occasions. when it comes in a variable like `serialNumber` or `packageNumber`, in those two example variables they do not represent a numeric value, instead usually `serialNumber` is a string contains many digits and sometimes string characters, `packageNumber` is more misleading because it can mean the count of packages or the serial number of package.
 
+Actually we recommend to avoid using the `number` word in such ways, because it misleads in some occasions. Let us take a couple of examples. `serialNumber` is a string variable used as an Identification of a product. `packageNumber` is more misleading because it can mean the count of packages or the serial number of the package.
 
+We recommend to use `count` instead of `number`. For example `packagesCount` is a variable holding the count of packages, and `studentsCount` is for the count of students.
 #### String type
 
 
