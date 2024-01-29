@@ -60,6 +60,12 @@ Notice that `altitude` value can have a minus value in case of the dead sea.
 
 For example, `everestAltitude` variable hold the value of the mountain Everest top above the sea level.
 
+>[!Important]
+>Use `speed` to represent the speed of a car or train or similar objects.
+
+Use `carSpeed` to tell about how many meters per second the car moves.
+
+In some cases we use the angular speed in degrees per second unit, for example, `clockAngularSpeed = 6`.
 
 
 
