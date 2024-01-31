@@ -65,7 +65,7 @@ For example, `everestAltitude` variable hold the value of the mountain Everest t
 
 Use `carSpeed` to tell about how many meters per second the car moves.
 
-In some cases we use the angular speed in degrees per second unit, for example, `clockAngularSpeed = 6`.
+In some cases we need to state the angular speed in degrees per second unit, for example; to state that the angular speed of the clock is 6 degrees per second we write `clockAngularSpeed = 6`.
 
 
 
