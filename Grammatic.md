@@ -67,6 +67,10 @@ Use `carSpeed` to tell about how many meters per second the car moves.
 
 In some cases we need to state the angular speed in degrees per second unit, for example; to state that the angular speed of the clock is 6 degrees per second we write `clockAngularSpeed = 6`.
 
+>[Important]
+>Use `temp` as a well-known appreviation of temperature.
+
+For example; to state that the temperature of room is 18 celsius we write `roomTemp = 18`.
 
 
 ##### Price
