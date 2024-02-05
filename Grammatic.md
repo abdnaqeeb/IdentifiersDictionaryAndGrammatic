@@ -27,13 +27,13 @@ A number variable can present:
 
 Many developers use the word "number" as part of the variable name to hold the count of something. For example a variable hold the count of students may have a name like `studentsNumber` or `numberOfStudents`. 
 
-Actually we recommend to avoid using the `number` word in such ways, because it misleads in some occasions. Let us take a couple of examples. `serialNumber` is a string variable used as an Identification of a product. `packageNumber` is more misleading because it can mean the count of packages or the serial number of the package.
-
-We recommend to use `count` instead of `number`. For example `packagesCount` is a variable holding the count of packages, and `studentsCount` is for the count of students.
+Actually we recommend to avoid using the `number` word in such ways, because it misleads in some occasions. Let us take a couple of examples. `serialNumber` is a string variable used as an identification of a product. `packageNumber` is more misleading because it can mean the count of packages or the serial number of the package.
 
 >[!Important]
 >Use `count` instead of `number` for something count.
->
+
+We recommend to use `count` instead of `number`. For example `packagesCount` is a variable holding the count of packages, and `studentsCount` is for the count of students.
+
 
 ##### Index
 
@@ -52,9 +52,9 @@ To measure a distance between two points we can use `distance`. If the value is 
 For example, a variable holding the distance value between Stockholm and Lund can be `distanceBetweenStockholmAndLund`, this is quit long name, so if it so clear from the scope that we talk about those two towns then we can use `distanceBetween` or even `distance`.
 
 >[!Important]
->Use `altitude` to represent the height of a point or a mountain over the sea level.
+>Use `altitude` to represent the elevation of a point or a mountain over the sea level.
 
-The word `altitude` is well know specific word used widely to represent the height of a point over the sea level, therefore, we use it instead of the word `height`.
+The word `altitude` is well know specific word used widely to represent the elevation of a point over the sea level, therefore, we use it instead of the word `height`.
 
 Notice that `altitude` value can have a minus value in case of the dead sea.
 
