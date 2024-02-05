@@ -65,8 +65,12 @@ For example, `everestAltitude` variable hold the value of the mountain Everest t
 
 Use `carSpeed` to tell about how many meters per second the car moves.
 
-In some cases we use the angular speed in degrees per second unit, for example, `clockAngularSpeed = 6`.
+In some cases we need to state the angular speed in degrees per second unit, for example; to state that the angular speed of the clock is 6 degrees per second we write `clockAngularSpeed = 6`.
 
+>[!Important]
+>Use `temp` as a well-known appreviation of temperature.
+
+For example; to state that the temperature of room is 18 celsius we write `roomTemp = 18`.
 
 
 ##### Price
@@ -79,7 +83,9 @@ In some cases we use the angular speed in degrees per second unit, for example, 
 
 
 #### Boolean type
-
+A boolean variable can hold either true or false values.
+As a general convention a name of a boolean variable should be interpreted as a yes or no question.
+For example the variable `hidden` should be interpreted to "Is this hidden?"
 
 ### Scope
 
