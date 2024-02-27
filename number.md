@@ -9,7 +9,7 @@ A number variable can present among others:
 
 ## Count
 
-Many developers use the word "number" as part of the variable name to hold the count of something. For example a variable hold the count of students may have a name like `studentsNumber` or `numberOfStudents`. 
+Many developers use the word "number" as part of the variable name to hold the count of something. For example a variable holds the count of students may have a name like `studentsNumber` or `numberOfStudents`. 
 
 Actually we recommend to avoid using the `number` word in such ways, because it misleads in some occasions. Let us take a couple of examples. `serialNumber` is a string variable used as an identification of a product. `packageNumber` is more misleading because it can mean the count of packages or the serial number of the package.
 
@@ -55,9 +55,14 @@ In some cases we need to state the angular speed in degrees per second unit, for
 
 For example; to state that the temperature of room is 18 celsius we write `roomTemp = 18`.
 
+>[!Caution]
+>When we use `temp` to stand for temperature, we should use different word to stand for temporary. We recommend to use `tempo` for that.
 
 ## Price
 
+The word `price` is neutral. This means that for a single product we may have two or more prices. Selling price is not the same as purchase price.
+
+If the kind of the price is clear from the scope context, you can use the word `price`, otherwise, you have to prefix it with explanatory adjective to be like `sellingPrice`, `purchasePrice`, `wholesalePrice`, `retailPrice` and so on.
 
 ## Amount
 

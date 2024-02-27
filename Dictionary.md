@@ -2,7 +2,7 @@
 
 ## Variables
 
-Variable name differs based on used case convention and variable's type and scope.
+Variable name differs based on used ***case convention*** and variable's ***type*** and ***scope***.
 
 ### Case Convention
 
@@ -28,3 +28,6 @@ A variable can be defined in different scopes:
 7. Loop index
 8. Loop iterator
 9. Loop local
+
+
+## Functions
