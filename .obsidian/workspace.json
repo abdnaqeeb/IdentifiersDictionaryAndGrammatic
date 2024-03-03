@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number.md",
+                "file": "NamingConvention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a242be53dd1acdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "boolean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number.md",
+                "file": "boolean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number.md",
+                "file": "boolean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number.md"
+                "file": "boolean.md"
               }
             }
           }
@@ -146,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "829f39dddf596871",
+  "active": "a242be53dd1acdf1",
   "lastOpenFiles": [
+    "NamingConvention.md",
+    "boolean.md",
     "Dictionary.md",
+    "string.md",
     "number.md",
     "Grammatic.md",
-    "boolean.md",
-    "string.md",
-    "NamingConvention.md",
     "AbbriviationsControlTable.md",
     "Untitled.canvas",
     "2024-01-28.md"
