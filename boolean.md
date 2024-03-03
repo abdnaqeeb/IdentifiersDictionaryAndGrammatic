@@ -25,14 +25,13 @@ We avoid using some words if that does not disturb the meaning of the boolean va
 
 ## Examples
 
-will this component update? ---> willUpdate
-did student pass the exam? ---> didStudentPassExam
-should the menu component re-render? ---> shouldMenuRerender
-is the list loading? ---> isListLoading
-is this loading? ---> isLoading ---> loading
-can this be removed? ---> canBeRemoved
-was this active? ---> wasActive
-is this active ---> isActive ---> active
-
-
-
+| Yes/No question                      | Boolean variable name  |
+| ------------------------------------ | ---------------------- |
+| will this component update?          | willUpdate             |
+| did student pass the exam?           | didStudentPassExam     |
+| should the menu component re-render? | shouldMenuRerender     |
+| is the list loading?                 | isListLoading          |
+| is this loading?                     | isLoading ---> loading |
+| can this be removed?                 | canBeRemoved           |
+| was this active?                     | wasActive              |
+| is this active?                      | isActive ---> active   |
