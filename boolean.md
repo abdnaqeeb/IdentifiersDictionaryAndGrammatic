@@ -1,10 +1,12 @@
 # Boolean type
 
-A boolean variable can hold either true or false values.
-As a general convention a name of a boolean variable should be interpreted as a yes or no question.
+A `boolean` variable can hold either true or false values.
+As a general convention a name of a `boolean` variable should be interpreted as a yes or no question.
 For example the variable `hidden` should be interpreted to "Is this hidden?"
 
-To elicit a boolean variable name we start by phrasing a yes/no question.
+## How to elicit
+
+To elicit a `boolean` variable name we start by phrasing a yes/no question.
 
 Yes/No questions starts with one of these helping verbs:
 - do, does, did
@@ -18,10 +20,23 @@ Yes/No questions starts with one of these helping verbs:
 
 The subject can be any object name or can be the current class object.
 If we refer to the current class object we use the word "this". An example of this, "Is ***this*** hidden?".
-In most cases we eliminate "this" from the boolean variable name.
-If we end with `Is <adj>` like `Is hidden` we eliminate the help verb `Is` and we end up with a single word to represent the boolean variable name `hidden`.
+In most cases we eliminate "this" from the `boolean` variable name.
+If we end with `Is <adj>` like `Is hidden` we eliminate the help verb `Is` and we end up with a single word to represent the `boolean` variable name `hidden`.
 
-We avoid using some words if that does not disturb the meaning of the boolean varaible name. These words enclude: of, the.
+We avoid using some words if that does not disturb the meaning of the `boolean` variable name. These words include: of, the.
+
+```mermaid
+flowchart TB
+
+HelpV["`Start with a helping verb ***is***, ***does***, ***will***, etc..`"]
+Sub["The subject name is the object you ask about"]
+UseThis["`Use ***this*** to represent the current obj`"]
+AvoidThe["`Avoid using ***the*** and ***of***`"]
+RemoveThis["`Remove ***this*** if possible`"]
+RemoveIs["`Remove ***is*** if an adj directly follows`"]
+
+HelpV --> Sub --> UseThis --> AvoidThe --> RemoveThis --> RemoveIs
+```
 
 ## Examples
 

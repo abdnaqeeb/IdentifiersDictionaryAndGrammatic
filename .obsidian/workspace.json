@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NamingConvention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a242be53dd1acdf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "boolean.md",
+                "file": "Dictionary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boolean.md",
+                "file": "Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "boolean.md",
+                "file": "Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "boolean.md"
+                "file": "Dictionary.md"
               }
             }
           }
@@ -159,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a242be53dd1acdf1",
+  "active": "829f39dddf596871",
   "lastOpenFiles": [
-    "NamingConvention.md",
     "boolean.md",
     "Dictionary.md",
+    "NamingConvention.md",
     "string.md",
     "number.md",
     "Grammatic.md",
